@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "运维相关"
-description: "gdutccd " 
+title: "芝麻大"
+description: "" 
 header-img: "img/bage1.jpeg"
 ---
 
